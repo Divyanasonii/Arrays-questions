@@ -2,8 +2,8 @@
 int main () {
     int sum = 0;
     int arr [5];
+    printf("enter elements : " );
     for(int i = 0; i<5; i++){
-        printf("enter element number %d\n", i+1);
         scanf("%d", &arr[i]);
     }
     for(int i = 0; i<5; i++){
