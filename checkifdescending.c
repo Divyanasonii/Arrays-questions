@@ -1,21 +1,14 @@
-#include <stdio.h>
-
-int main() {
-    int arr[5];
-
-    printf("Enter 5 elements: ");
-    for(int i = 0; i < 5; i++) {
-        scanf("%d", &arr[i]);
-    }
-
-    for(int i = 0; i < 4; i++) {
-        if(arr[i] < arr[i + 1]) {
-            printf("Array is not in descending order");
-            return 0;
+#include<stdio.h>
+int main () {
+    int arr[5] = {1,2,3,4,5};
+    for(int i = 0; i<5; i++){
+        for(int j = i +1; j<5; j++){
+            if(arr[i]<arr[j]){
+                printf("not in descending order");
+                return 0;
+            }
         }
     }
-
-    printf("Array is in descending order");
-
+    printf("in descending order");
     return 0;
 }
