@@ -21,7 +21,7 @@ int main() {
                 count++;
             }
         }
-
+        
         printf("%d = %d times\n", arr[i], count);
     }
 
