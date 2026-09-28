@@ -1,3 +1,4 @@
+//WAP to find if an array is a palindrome array or not
 #include<stdio.h>
 int main () {
     int arr[6];

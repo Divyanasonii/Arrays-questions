@@ -1,4 +1,5 @@
-#include <stdio.h>
+//WAP to find the frequency of each element in an array
+#include<stdio.h>
 int main() {
 
     int arr[6] = {2, 3, 2, 5, 3, 2};

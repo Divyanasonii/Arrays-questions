@@ -1,3 +1,4 @@
+//WAP to take input of an array and print it in reverse order
 #include<stdio.h>
 int main () {
 

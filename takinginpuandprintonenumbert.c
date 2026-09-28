@@ -1,4 +1,5 @@
-#include<stdio.h> 
+//WAP to take input and print one element of the array
+#include<stdio.h>
 int main () {
     int arr[5];
 

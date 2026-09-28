@@ -1,4 +1,5 @@
-#include <stdio.h>
+//WAP to find the second largest element in an array
+#include<stdio.h>
 #include<limits.h>
 int main() {
     int arr[6];

@@ -1,3 +1,4 @@
+//WAP to check whether an array is in ascending or not
 #include<stdio.h>
 int main () {
     int arr[5];

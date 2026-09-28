@@ -1,3 +1,4 @@
+//WAP to take input and find out the average of all elements
 #include<stdio.h>
 int main () {
 

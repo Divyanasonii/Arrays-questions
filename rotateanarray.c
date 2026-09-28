@@ -1,3 +1,4 @@
+//WAP to rotate an array
 #include<stdio.h>
 int main () {
 

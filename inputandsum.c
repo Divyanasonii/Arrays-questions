@@ -1,3 +1,4 @@
+//WAP to take input of an array and print its sum
 #include<stdio.h>
 int main () {
     int sum = 0;

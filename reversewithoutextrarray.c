@@ -1,3 +1,4 @@
+//WAP to reverse an array without using an extra array
 #include<stdio.h>
 int main () {
         int arr[6];

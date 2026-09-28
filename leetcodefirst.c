@@ -1,3 +1,4 @@
+//first question of leetcode
 #include<stdio.h>
 int main () {
     int arr[5];

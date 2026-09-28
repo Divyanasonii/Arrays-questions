@@ -1,3 +1,4 @@
+//WAP to find the total number of triplets in an array equal to a given number 
 #include<stdio.h>
 int main () { 
     int arr[6];

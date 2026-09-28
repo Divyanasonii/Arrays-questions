@@ -1,3 +1,4 @@
+//WAP to find the maximum value element in an array
 #include<stdio.h>
 int main () {
     int arr[6];

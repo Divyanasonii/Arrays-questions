@@ -1,3 +1,4 @@
+//WAP to find an element using linear search
 #include<stdio.h>
 int main () {
     int num;

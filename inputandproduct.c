@@ -1,3 +1,4 @@
+//WAP to take input of an array and print its product
 #include<stdio.h>
 int main () {
     int arr [5];

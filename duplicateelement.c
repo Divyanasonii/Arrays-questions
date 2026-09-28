@@ -1,3 +1,4 @@
+//WAP to find the duplicate element of an array
 #include<stdio.h>
 int main () {
     int arr[7];

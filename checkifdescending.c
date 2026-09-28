@@ -1,3 +1,4 @@
+//WAP to check whether an array is in descending order or not
 #include<stdio.h>
 int main () {
     int arr[5] = {1,2,3,4,5};

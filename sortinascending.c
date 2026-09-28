@@ -1,3 +1,4 @@
+//WAP to sort an array in ascending order
 #include<stdio.h>
 int main () {
     int arr[7];

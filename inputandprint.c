@@ -1,3 +1,4 @@
+//WAP to take input of an array and print it
 #include<stdio.h>
 int main () {
     int arr [10];

@@ -1,3 +1,4 @@
+//WAP to find the differece between sum of even elements and odd elements
 #include<stdio.h>
 int main () { 
     int arr[6];

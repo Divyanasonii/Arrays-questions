@@ -1,3 +1,4 @@
+//WAP to rotate an array in left by two positions
 #include<stdio.h>
 int main () {
     int arr[5];

@@ -1,3 +1,4 @@
+//wap to print marks less than 35
 #include<stdio.h>
 int main () {
 
@@ -5,7 +6,7 @@ int main () {
 
     for(int i = 0; i<10; i++){
         if(marks[i] <35){
-            printf("%d " , i);    //marks print krane hai to marks[i] and index krana h toh i
+            printf("%d " , i);    
         }
     }
 

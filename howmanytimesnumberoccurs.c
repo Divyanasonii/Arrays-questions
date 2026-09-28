@@ -1,3 +1,4 @@
+//WAP to find how many times a number occurs in an array
 #include<stdio.h>
 int main () {
 

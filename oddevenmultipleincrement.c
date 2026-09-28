@@ -1,3 +1,4 @@
+//multiply odd indexed elements by 2 and even indexed elements increment by 10
 #include<stdio.h>
 int main () {
 

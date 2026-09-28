@@ -1,3 +1,4 @@
+//WAP to copy an array and reverse it
 #include<stdio.h>
 int main () {
     int brr[6];

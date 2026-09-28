@@ -1,3 +1,4 @@
+//WAP to find elements in an array greater than a given number
 #include<stdio.h>
 int main () { 
     int arr[6];
